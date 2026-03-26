@@ -1,0 +1,5 @@
+Required Libraries:
+
+streamlit
+pandas
+scikit-learn

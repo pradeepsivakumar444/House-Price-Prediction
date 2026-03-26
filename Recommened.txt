@@ -1,5 +1,4 @@
-Required Libraries:
-
+numpy
 streamlit
 pandas
 scikit-learn
